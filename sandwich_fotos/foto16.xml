@@ -1,0 +1,26 @@
+<annotation>
+  <folder>sandwich_fotos</folder>
+  <filename>foto16</filename>
+  <path>C:\Users\A687455\Documents\GitHub\AMS-HACKATON\sandwich_fotos\foto16.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>132</width>
+    <height>91</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>board</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>70</xmin>
+      <ymin>26</ymin>
+      <xmax>86</xmax>
+      <ymax>59</ymax>
+    </bndbox>
+  </object>
+</annotation>
